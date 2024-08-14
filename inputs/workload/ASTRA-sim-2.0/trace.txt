@@ -1,0 +1,5760 @@
+id: 0
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 1
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 2
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 3
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 4
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 5
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 6
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 7
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 8
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 9
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 10
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 11
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 12
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 13
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 14
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 15
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 16
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 17
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 18
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 19
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 20
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 21
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 22
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 23
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 24
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 25
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 26
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 27
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 28
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 29
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 30
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 31
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 32
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 33
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 34
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 35
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 36
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 37
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 38
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 39
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 40
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 41
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 42
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 43
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 44
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 45
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 46
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 47
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 48
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 49
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 50
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 51
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 52
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 53
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 54
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 55
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 56
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 57
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 58
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 59
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 60
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 61
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 62
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 63
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 64
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 65
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 66
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 67
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 68
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 69
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 70
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 71
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 72
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 73
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 74
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 75
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 76
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 77
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 78
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 79
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 80
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 81
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 82
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 83
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 84
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 85
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 86
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 87
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 88
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 89
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 90
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 91
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 92
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 93
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 94
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 95
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 96
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 97
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 98
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 99
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 100
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 101
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 102
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 103
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 104
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 105
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 106
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 107
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 108
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 109
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 110
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 111
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 112
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 113
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 114
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 115
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 116
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 117
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 118
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 119
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 120
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 121
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 122
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 123
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 124
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 125
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 126
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 127
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 128
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 129
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 130
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 131
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 132
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 133
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 134
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 135
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 136
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 137
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 138
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 139
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 140
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 141
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 142
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 143
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 144
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 145
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 146
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 147
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 148
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 149
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 150
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 151
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 152
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 153
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 154
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 155
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 156
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 157
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 158
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 159
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 160
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 161
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 162
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 163
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 164
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 165
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 166
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 167
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 168
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 169
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 170
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 171
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 172
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 173
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 174
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 175
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 176
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 177
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 178
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 179
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 180
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 181
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 182
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 183
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 184
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 185
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 186
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 187
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 188
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 189
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 190
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 191
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 192
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 193
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 194
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 195
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 196
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 197
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 198
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 199
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 200
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 201
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 202
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 203
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 204
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 205
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 206
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 207
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 208
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 209
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 210
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 211
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 212
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 213
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 214
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 215
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 216
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 217
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 218
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 219
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 220
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 221
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 222
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 223
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 224
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 225
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 226
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 227
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 228
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 229
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 230
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 231
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 232
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 233
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 234
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 235
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 236
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 237
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 238
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 239
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 240
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 241
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 242
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 243
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 244
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 245
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 246
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 247
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 248
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 249
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 250
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 251
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 252
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 253
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 254
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 255
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 256
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 257
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 258
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 259
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 260
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 261
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 262
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 263
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 264
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 265
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 266
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 267
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 268
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 269
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 270
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 271
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 272
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 273
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 274
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 275
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 276
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 277
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 278
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 279
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 280
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 281
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 282
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 283
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 284
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 285
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 286
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 287
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 288
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 289
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 290
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 291
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 292
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 293
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 294
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 295
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 296
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 297
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 298
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 299
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 300
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 301
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 302
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 303
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 304
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 305
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 306
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 307
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 308
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 309
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 310
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 311
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 312
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 313
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 314
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 315
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 316
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 317
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 318
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 319
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 320
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 321
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 322
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 323
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 324
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 325
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 326
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 327
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 328
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 329
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 330
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 331
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 332
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 333
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 334
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 335
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 336
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 337
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 338
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 339
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 340
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 341
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 342
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 343
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 344
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 345
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 346
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 347
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 348
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 349
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 350
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 351
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 352
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 353
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 354
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 355
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 356
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 357
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 358
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 359
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 360
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 361
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 362
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 363
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 364
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 365
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 366
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 367
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 368
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 369
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 370
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 371
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 372
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 373
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 374
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 375
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 376
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 377
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 378
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 379
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 380
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 381
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 382
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 383
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 384
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 385
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 386
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 387
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 388
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 389
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 390
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 391
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 392
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 393
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 394
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 395
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 396
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 397
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 398
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 399
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 400
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 401
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 402
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 403
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 404
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 405
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 406
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 407
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 408
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 409
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 410
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 411
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 412
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 413
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 414
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 415
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 416
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 417
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 418
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 419
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 420
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 421
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 422
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 423
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 424
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 425
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 426
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 427
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 428
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 429
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 430
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 431
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 432
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 433
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 434
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 435
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 436
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 437
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 438
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 439
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 440
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 441
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 442
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 443
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 444
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 445
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 446
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 447
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 448
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 449
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 450
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 451
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 452
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 453
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 454
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 455
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 456
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 457
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 458
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 459
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 460
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 461
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 462
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 463
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 464
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 465
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 466
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 467
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 468
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 469
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 470
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 471
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 472
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 473
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 474
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 475
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 476
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 477
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 478
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 479
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 480
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 481
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 482
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 483
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 484
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 485
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 486
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 487
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 488
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 489
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 490
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 491
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 492
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 493
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 494
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 495
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 496
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 497
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 498
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 499
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 500
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 501
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 502
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 503
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 504
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 505
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 506
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 507
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 508
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 509
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 510
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 511
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 512
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 513
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 514
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 515
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 516
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 517
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 518
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 519
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 520
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 521
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 522
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 523
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 524
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 525
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 526
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 527
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 528
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 529
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 530
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 531
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 532
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 533
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 534
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 535
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 536
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 537
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 538
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 539
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 540
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 541
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 542
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 543
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 544
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 545
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 546
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 547
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 548
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 549
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 550
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 551
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 552
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 553
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 554
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 555
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 556
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 557
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 558
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 559
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 560
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 561
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 562
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 563
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 564
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 565
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 566
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 567
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 568
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 569
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 570
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 571
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 572
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 573
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 574
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 575
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 576
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 577
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 578
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 579
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 580
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 581
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 582
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 583
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 584
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 585
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 586
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 587
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 588
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 589
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 590
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 591
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 592
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 593
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 594
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 595
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 596
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 597
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 598
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 599
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 600
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 601
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 602
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 603
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 604
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 605
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 606
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 607
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 608
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 609
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 610
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 611
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 612
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 613
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 614
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 615
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 616
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 617
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 618
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 619
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 620
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 621
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 622
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 623
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 624
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 625
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 626
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 627
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 628
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 629
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 630
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 631
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 632
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 633
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 634
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 635
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 636
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 637
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 638
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+
+id: 639
+name: "COMM_COLL_NODE_conv1_ALLREDUCE"
+node_type: COMM_COLL_NODE
+comm_type: ALL_REDUCE
+involved_dim: true
+involved_dim: true
+involved_dim: true
+comm_size: 1048576
+

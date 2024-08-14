@@ -1,0 +1,13 @@
+# Analytical Network Input File
+
+# 3D topology
+topology: [ FullyConnected, Ring ]  # FullyConnected, Ring, 
+
+# 8 x 8 = 64 GPUs
+npus_count: [ 8, 8 ]  # number of GPUs
+
+# Bandwidth per each dimension and direction (per link)
+bandwidth: [ 400.0, 50.0 ]  # [NVLink, PCIe]
+
+# Latency per each dimension and direction
+latency: [ 50.0, 500.0 ]  # ns
